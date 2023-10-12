@@ -23,6 +23,7 @@ const localeHumanReadable = {
   fr: 'Français',
   de: 'Deutsch',
   pt: 'Português',
+  cn: '中文',
   'pt-BR': 'Português (BR)',
 } as const
 

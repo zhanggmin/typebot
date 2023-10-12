@@ -16,4 +16,5 @@ export const {
   pt: () => import('./pt'),
   'pt-BR': () => import('./pt-BR'),
   de: () => import('./de'),
+  cn: () => import('./cn'),
 })
